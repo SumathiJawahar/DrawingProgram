@@ -1,0 +1,7 @@
+C:\Users\AshviNiki\Documents\ConsoleDrawingProgram-master\DrawingProgram\bin\Debug\DrawingProgram.exe.config
+C:\Users\AshviNiki\Documents\ConsoleDrawingProgram-master\DrawingProgram\bin\Debug\DrawingProgram.exe
+C:\Users\AshviNiki\Documents\ConsoleDrawingProgram-master\DrawingProgram\bin\Debug\DrawingProgram.pdb
+C:\Users\AshviNiki\Documents\ConsoleDrawingProgram-master\DrawingProgram\obj\Debug\DrawingProgram.csprojAssemblyReference.cache
+C:\Users\AshviNiki\Documents\ConsoleDrawingProgram-master\DrawingProgram\obj\Debug\DrawingProgram.csproj.CoreCompileInputs.cache
+C:\Users\AshviNiki\Documents\ConsoleDrawingProgram-master\DrawingProgram\obj\Debug\DrawingProgram.exe
+C:\Users\AshviNiki\Documents\ConsoleDrawingProgram-master\DrawingProgram\obj\Debug\DrawingProgram.pdb
